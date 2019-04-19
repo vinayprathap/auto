@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - TRANSMISSION.
+LOCATION - USUALLY LOCATED BETWEEN THE TRANSMISSION AND THE FRONT AND REAR DIFFERENTIALS
+INCLUDES - DIFFERENTIAL CASE ONLY
+
+
+INFO - The automotive differential is designed to drive a pair of wheels while allowing them to rotate at different speeds. In vehicles without a differential, such as karts, both driving wheels are forced to rotate at the same speed, usually on a common axle driven by a simple chain-drive mechanism.

@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - TRANSMISSION
+LOCATION - USUALLY LOCATED IN THE FRONT OF THE ENGINE
+INCLUDES - WIPER MOTOR ONLY
+
+INFO - An automatic transmission is essentially an automatic gear shifter. Instead of manually shifting the gears with a clutch on a manual transmission car or a gear shifter on a bicycle, the automatic transmission does everything for you

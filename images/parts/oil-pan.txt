@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - ENGINE MECHANICAL
+LOCATION - USUALLY AT THE BOTTOM OF THE ENGINE
+INCLUDES - OIL PAN ONLY
+
+INFO - The oil pan is attached to the bottom of the engine with bolts and is the reservoir for oil that gets pumped throughout the engine to lubricate, clean and cool moving parts. The oil dipstick extends into the oil pan and measures the oil level in the reservoir. A drain plug on the bottom can be removed to drain oil.	

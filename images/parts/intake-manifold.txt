@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - ENGINE MECHANICAL.
+LOCATION - USUALLY IN THE ENGINE BLOCK.
+INCLUDES - INTAKE MANIFOLD ONLY
+
+INFO - In automotive engineering, intake manifold (in American English) is the part of an engine that supplies the fuel/air mixture to the cylinders.

@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - COOLING SYSTEM
+LOCATION - USUALLY IN BETWEEN THE CAR’S GRILLE AND THE ENGINE-COOLING RADIATOR
+INCLUDES - CONDENSOR ONLY
+INCLUDES - MODULE ONLY
+
+INFO - The air-conditioning condenser is a radiator positioned between the car's grille and the engine-cooling radiator in which the gaseous refrigerant sheds heat and returns to a liquid state. The liquid refrigerant flows to the evaporator inside the dashboard, where it cools the cabin.

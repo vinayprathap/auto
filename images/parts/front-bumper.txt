@@ -1,0 +1,9 @@
+TYPE -  USED OEM PART
+CATEGORY - AUTO BODY PARTS
+LOCATION - FRONT, BELOW THE HOOD
+INCLUDES - FULL BUMPER ASSEMBLY ONLY
+
+INFO - A bumper is a structure attached to or integrated with the front and rear ends of a motor vehicle, to absorb impact in a minor collision, ideally minimizing repair costs
+Modules will need to have an exact part match, please provide your exact part number and Modules must be reset by a dealer before installing.
+
+

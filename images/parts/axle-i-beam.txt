@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - DRIVESHAFT AND AXEL
+LOCATION - 
+INCLUDES - BEAM AXEL ONLY
+
+INFO - A beam axle is a dependent suspension design, in which a set of wheels is connected laterally by a single beam or shaft
+

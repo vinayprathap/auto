@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - 
+LOCATION - USUALLY AT THE FRAME
+INCLUDES - TROSION BAR ONLY
+
+INFO - A torsion bar suspension, also known as a torsion spring suspension, is any vehicle suspension that uses a torsion bar as its main weight-bearing spring. Vertical motion of the wheel causes the bar to twist around its axis and is resisted by the bar's torsion resistance.

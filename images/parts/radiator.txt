@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - BODY MECHANICAL AND TRIM
+LOCATION - USUALLY UNDER THE HOOD
+INCLUDES - RADIATOR ONLY
+
+INFO - A radiator is a type of heat exchanger. It is designed to transfer heat from the hot coolant that flows through it to the air blown through it by the fan. Most modern cars use aluminum radiators. These radiators are made by brazing thin aluminum fins to flattened aluminum tubes.

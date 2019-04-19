@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - AUTO BODY PARTS
+LOCATION - EXTERIOR
+INCLUDES - REAR QUATER-PANELS, TRUNK LID, FLOOR PAN, REAR SUSPENTION SYTEM AND ROOF.
+
+INFO - A rear clip is generally an easier and less risky job to perform than a front clip. The body shop attaches the entire rear half of a car, including the rear quarter-panels, the trunk lid, a section of a floor pan, the rear suspension system and possibly the entire roof.

@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - .
+LOCATION - USUALLY AT THE FRONT OF THE WATER PUMP
+INCLUDES - FAN CLUTCH ONLY.
+
+INFO - A fan clutch is a thermostatic engine cooling fan that can freewheel at low temperatures when cooling is not needed, allowing the engine to warm up faster, relieving unnecessary load on the engine. As temperatures increase, the clutch engages so that the fan is driven by engine power and moves air to cool the engine.

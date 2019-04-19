@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - AUTO BODY PARTS.
+LOCATION - EXTERIOR
+INCLUDES - TIE ROD ENDS, PITMAN ARMS, A RACK AND PINION, BALL JOINTS, AND SHOCKS OR STRUTS.
+
+INFO - Depending on the vehicle, your front end assembly may include tie rod ends, idler arms, pitman arms, a rack and pinion, ball joints, and shocks or struts.

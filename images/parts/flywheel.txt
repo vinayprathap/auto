@@ -1,0 +1,7 @@
+ TYPE -  USED OEM PART
+CATEGORY - TRANSMISSION.
+LOCATION - USUALLY CONNECTED TO THE CRANKSHAFT
+INCLUDES - FLYWHEEL ONLY.
+
+INFO - The flywheel (if manual) or flex plate (if automatic transmission) is a disc that is bolted to the crankshaft at the rear of the engine. It serves several purposes: On a manual transmission vehicle, it provides one of the friction surfaces for the clutch.
+

@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - BRAKE
+LOCATION -
+INCLUDES - 
+
+INFO - An anti-lock braking system (ABS) is a safety anti-skid braking system used on vehicles,ABS operates by preventing the wheels from locking up during braking, thereby maintaining tractive contact with the road surface.
+

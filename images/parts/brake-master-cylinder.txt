@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - BRAKE
+LOCATION - 
+INCLUDES - MASTER CYLINDER ONLY
+
+INFO - The brake master cylinder is the first component in a vehicle's braking system, activated by depressing the brake pedal. The master cylinder is designed to last the life of the car
+

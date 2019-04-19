@@ -1,0 +1,6 @@
+ TYPE -  USED OEM PART
+CATEGORY - BODY MECHANICAL AND TRIM.
+LOCATION - 
+INCLUDES - WIPER MOTOR ONLY.
+
+INFO - Windshield wipers are powered by a small electric motor, usually mounted on the firewall or under the cowl (the area under the windshield's base). The motor activates linkage that moves the wiper arms back and forth. On vehicles with a rear window wiper, a separate motor powers the one in the rear.

@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - FUEL DELIVERY
+LOCATION - ENGINE COMPARTMENT
+INCLUDES - CARBURETOR ONLY	
+
+INFO -A Carburetor is a device that mixes air and fuel for internal combustion engines in the proper air–fuel ratio for combustion. 
+

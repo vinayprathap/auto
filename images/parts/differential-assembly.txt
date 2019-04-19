@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - TRANSMISSION.
+LOCATION - 
+INCLUDES - DIFFERENTIAL ASSEMBLY AND CARRIER ASSEMBLY ONLY
+
+
+INFO - he differential is a device that splits the engine torque two ways, allowing each output to spin at a different speed. The differential is found on all modern cars and trucks, and also in many all-wheel-drive (full-time four-wheel-drive) vehicles.

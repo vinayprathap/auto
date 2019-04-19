@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY -  DRIVESHAFT AND AXEL
+LOCATION - 
+INCLUDES - AXEL SHAFT ONLY
+
+INFO - An axle shaft is a narrow, pole-like part that connects a wheel to the gears in the transmission. Axles are part of the system that enables the wheels to rotate. One end of the axle shaft is connected to the transmission and the other end is connected to the wheel.
+

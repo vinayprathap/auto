@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - BODY MECHANICAL AND TRIM.
+LOCATION - USUALLY ON THE DOOR.
+INCLUDES - VENT GLASS ONLY.
+
+INFO - A vent glass is the smaller glass located on doors of your vehicle. On modern vehicles the vent glass is usually a fixed piece that doesn't open and close. The most common reason that these windows are broken is to gain access inside the locked vehicle.

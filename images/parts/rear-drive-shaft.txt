@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - DRIVESHAFT AND AXEL.
+LOCATION - .
+INCLUDES - DRIVESHAFT ONLY.
+
+INFO - The driveshaft is the part on the lower right side of the picture. The other end of it would be connected to the transmission.The drive shaft, also called a propeller shaft, is commonly a hollow steel tube with yoke(s) welded on the end. The tubular design makes the drive shaft strong and light. Most vehicles use a single, one-piece drive shaft. However, many trucks have a two-piece drive shaft. This cuts the length of each shaft to avoid driveline vibration.
+

@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - 
+LOCATION - 
+INCLUDES - BELL HOUSING ONLY
+
+INFO - Bell housing is a colloquial/slang term for the portion of the transmission that covers the flywheel and the clutch or torque converter of the transmission on vehicles powered by internal combustion engines
+

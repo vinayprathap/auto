@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - 
+LOCATION - 
+INCLUDES - Gear Assembly and Housing
+
+NFO -It's the center chuck in the middle of the rear axle assembly that houses the ring and pinion gears.
+

@@ -1,0 +1,8 @@
+TYPE -  USED OEM PART
+CATEGORY -
+LOCATION - 
+INCLUDES - PUMP ONLY, DRIVE BELT WILL NOT BE INCLUDED
+
+INFO -An air pump, also commonly referred to as a smog pump, is an emissions component that is part of the secondary air injection system. It is responsible for pumping clean air into the vehicle's exhaust stream to promote a cleaner and more complete burn before the fumes exit the tailpipe.
+
+

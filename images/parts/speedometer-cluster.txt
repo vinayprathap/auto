@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - ACCESSORIES
+LOCATION - USUALLY RIGHT AHEAD OF THE DRIVER'S SEAT
+INCLUDES - SPEEDOMETER CLUSTER ONLY
+
+INFO -  In an automobile, an electronic instrument cluster, digital instrument panel or digital dash for short, is a set of instrumentation, including the speedometer, that is displayed with a digital readout rather than with the traditional analog gauges. Many refer to it simply as a digital speedometer.
+

@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - 
+LOCATION - USUALLY BOTTLED TO THE FRONT OF THE ENGINE
+INCLUDES - PUMP ONLY
+
+INFO - A water pump is vital to a car engine's operation because it ensures the coolant keeps moving through the engine block, hoses and radiator, and maintains an optimum operating temperature. It is driven by a serpentine belt (aka accessory belt or auxiliary belt) from the crankshaft pulley.

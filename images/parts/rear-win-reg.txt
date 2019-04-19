@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - BODY MECHANICAL
+LOCATION - INSIDE THE PANELS OF DOORS
+INCLUDES - WINDOW REGULATOR AND MOTOR
+
+INFO - Window Regulator are located in the internal section of a car’s door panel. These units move the window glass up and down and also controls the height at which the glass sits.	

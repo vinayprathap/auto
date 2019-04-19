@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - ENGINE MECHANICAL.
+LOCATION - USUALLY BETWEEN ENGINE BLOCK AND ENGINE OIL COOLER.
+INCLUDES - ENGINE OIL COOLER ONLY.
+
+INFO - The oil inside the cooler will help to keep the optimal temperature range of the engine and its parts. The oil will enter the oil cooler while its temperature is still high. Inside the cooler, it will go around tubes that are equipped with fins that release heat.
+

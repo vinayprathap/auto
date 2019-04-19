@@ -1,0 +1,9 @@
+TYPE -  USED OEM PART
+CATEGORY - 
+LOCATION - USUALLY LOCATED ON THE SIDES OF THE STEERING
+INCLUDES - COLUMN SWITCH ONLY
+
+
+INFO -  It is fitted to the steering column usually below the steering wheel. The lock is combined with the ignition switch and engaged and disengaged either by a mechanical ignition key or electronically from the vehicles electronic control unit.
+
+

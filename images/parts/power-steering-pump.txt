@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - STEERING
+LOCATION - USUALLY AT THE FRONT OF THE ENGINE
+INCLUDES - POWER STEERING PUMP ONLY 
+
+INFO - The power steering pump, also called vane pump, is a system driven by the movement of the crankshaft by means of pulley and belt. In cars, power steering helps drivers steer the vehicle by augmenting steering effort of the steering wheel.

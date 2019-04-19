@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Image scrolling</title>
+	<style type="text/css">
+*{
+  margin: 0;
+  padding: 0;
+  outline: none;
+  border: none;
+    box-sizing: content-box;
+    
+}
+*:before,
+*:after{
+	margin: 0;
+  padding: 0;
+  outline: none;
+  border: none;
+	box-sizing:border-box;
+
+}
+*:after{
+	bottom: 0;
+}
+.container{
+	margin:10% auto;
+	width:  575px;
+	height: 0px;
+	position: relative;
+	-webkit-perspective: 1800px;
+
+	
+}
+#carousel{
+	width: 80%;
+	height: 100%;
+	position: absolute;
+	transform-style: preserve-3d;
+	animation: rotation 40s infinite linear;
+
+}
+#carousel:hover{
+	animation-play-state: paused;
+
+}
+#carousel figure{
+	display: block;
+	position: absolute;
+	width: 80%;
+	height: 100%;
+	left: -10px;
+	right: -10px;
+
+
+}
+#carousel figure:nth-child(1) {	-webkit-transform:  rotateY(0deg)  translateZ(725px);}
+#carousel figure:nth-child(2) { -webkit-transform: rotateY(40deg) translateZ(725px);}
+#carousel figure:nth-child(3) { -webkit-transform: rotateY(80deg) translateZ(725px);}
+#carousel figure:nth-child(4) { -webkit-transform: rotateY(120deg) translateZ(725px);}
+#carousel figure:nth-child(5) { -webkit-transform: rotateY(160deg) translateZ(725px);}
+#carousel figure:nth-child(6) { -webkit-transform: rotateY(200deg) translateZ(725px);}
+#carousel figure:nth-child(7) { -webkit-transform: rotateY(240deg) translateZ(725px);}
+#carousel figure:nth-child(8) { -webkit-transform: rotateY(280deg) translateZ(725px);}
+#carousel figure:nth-child(9) { -webkit-transform: rotateY(320deg) translateZ(725px);}
+
+img{
+	cursor: pointer;
+	transition: all .5s linear;
+	width: 100%;
+}
+img:hover{
+  transform: scale(1.2,1.2);
+}
+
+@keyframes rotation{
+	from{
+		transform: rotateY(360deg);
+	}
+	to{
+		transform: rotateY(0deg);
+	}
+}
+	</style>
+	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+</head>
+<body>
+  <div class="container">
+  
+    	<div id="carousel">    		
+			<figure><img src="car1.png" alt=""></figure>
+			<figure><img src="car2.png" alt=""></figure>
+			<figure><img src="car3.png" alt=""></figure>
+			<figure><img src="car4.png" alt=""></figure>
+			<figure><img src="car10.png" alt=""></figure>
+			<figure><img src="car12.png" alt=""></figure>
+			<figure><img src="car11.png" alt=""></figure>
+			<figure><img src="car1.webp" alt=""></figure>
+			<figure><img src="car18.png" alt=""></figure>
+			
+		</div>
+	
+	</div>
+</body>
+</html>

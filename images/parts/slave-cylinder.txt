@@ -1,0 +1,9 @@
+TYPE -  USED OEM PART
+CATEGORY - CLUTCH
+LOCATION - USUALLY LOCATED ON THE LEFT SIDE OF THE BELL HOUSING
+INCLUDES - Hydraulic Cylinder only.
+
+
+INFO - It works together with the clutch master cylinder to disengage the clutch when the pedal is pressed so that the transmission can be safely shifted.
+
+

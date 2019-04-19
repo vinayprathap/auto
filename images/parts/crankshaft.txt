@@ -1,0 +1,8 @@
+TYPE -  USED OEM PART
+CATEGORY - ENGINE MECHANICAL
+LOCATION - LOCATED ON THE FRONT UNDERSIDE OF THE ENGINE.
+INCLUDES - CRANKSHAFT ONLY
+
+
+INFO - Crankshaft is the main part of the engine through which the power developed in the engine cylinder is transmitted to the flywheel. Crankshaft is a mechanical unit the is used in Automobile Reciprocating engines.
+

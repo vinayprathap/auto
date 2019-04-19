@@ -1,0 +1,8 @@
+TYPE -  USED OEM PART
+CATEGORY - ENGINE MECHANICAL
+LOCATION - USUALLY LOCATED IN THE VALVE
+INCLUDES - CAMSHAFT ONLY
+
+INFO - The camshaft is an integral part of your engine. It is a shaft that is fitted along the length of the cylinder head and has oblong lobes called cams fitted on it. These cams aid in the opening and closing of the intake and exhaust valves of the engine cylinders.
+
+

@@ -1,0 +1,5 @@
+TYPE -  USED OEM PART
+CATEGORY - COOLING SYSTEM
+LOCATION - USUALLY LOCATED INSIDE THE PASSENGER COMPARTMENT 
+INCLUDES -
+INFO -The refrigerant absorbs the heat from the warm air, and humidity condenses on the evaporator's cool surface

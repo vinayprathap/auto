@@ -1,0 +1,9 @@
+TYPE -  USED OEM PART
+CATEGORY - 
+LOCATION - 
+INCLUDES - MOTOR ONLY
+
+
+INFO - The Convertible Top Motor helps to raise or lower the convertible's top. The convertible motor drives the pump which is connected to the motor at one end and the fluid reservoir on the other end.
+
+

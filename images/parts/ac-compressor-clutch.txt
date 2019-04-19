@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - COOLING SYSTEM
+LOCATION - USUALLY IN THE ENGINE BAY 
+INCLUDES - 
+INFO -At the heart of the air conditioning unit of a car is the compressor that pressurizes the refrigerant and pumps it through the A/C system. It derives its power directly from the engine flywheel and, in a similar way to the drive chain of the car, a clutch controls its operation.
+

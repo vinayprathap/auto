@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - ENGINE MECHANICAL.
+LOCATION - USUALLY LOCATED ON THE TOP OF THE ENGINE BLOCK.
+INCLUDES - 
+
+
+INFO - An engine block is the structure which contains the cylinders, and other parts, of an internal combustion engine.  Modern engine blocks typically have the crankcase integrated with the cylinder block as a single component. Engine blocks often also include elements such as coolant passages and oil galleries.

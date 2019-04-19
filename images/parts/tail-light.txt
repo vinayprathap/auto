@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - AUTO BODY PARTS
+LOCATION - BESIDES THE TAILGATE/TRUNK LID
+INCLUDES - TAILLIGHT ASSEMBLY HOUSING AND LENS ONLY
+
+INFO - A tail light or a tail lamp is the part of the lighting system of a vehicle which is attached in front and at the rear part of the vehicle. They usually come in pairs (left and right). ... Usually yellow in color because of regulatory standards, these indicate whether the vehicle is going to turn right or left.

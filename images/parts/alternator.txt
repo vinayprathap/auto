@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - MOST POPULAR
+LOCATION - USUALLY LOCATED ON THE ENGINE
+INCLUDES - ALTERNATOR ONLY
+
+INFO -An alternator is a generator of electric power in a car and is a major component of the vehicle's charging system,  also involved in charging batteries.
+

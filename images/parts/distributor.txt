@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - ENGINE ELECTRICAL.
+LOCATION - USUALLY LOCATED NEAR THE COILOF CAR IGNITION SYSTEM.
+INCLUDES - DISTRIBUTOR ONLY
+
+
+INFO - The distributor is the component that transfers the voltage from the ignition coil to the spark plugs. The primary components of the distributor include the rotor and the cap, in which the former spins inside the latter. The cap has the output contacts. The distributor is driven by the engine's camshaft.

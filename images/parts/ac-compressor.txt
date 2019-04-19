@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - COOLING SYSTEM 
+LOCATION - USUALLY LOCATED IN THE ENGINE BAY
+INCLUDES -
+INFO - Your car's AC compressor is just one part of the entire air conditioning system, responsible for "compressing" the system refrigerant to increase the temperature
+

@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - DRIVESHAFT AND AXEL
+LOCATION - USUALLY NEAR THE WHEELS
+INCLUDES - SPINDLE KNUCKLE ONLY
+
+INFO -  It is variously called a steering knuckle, spindle, upright or hub, as well. The wheel and tire assembly attach to the hub or spindle of the knuckle where the tire/wheel rotates while being held in a stable plane of motion by the knuckle/suspension assembly.
+

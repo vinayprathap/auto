@@ -1,0 +1,10 @@
+TYPE -  USED OEM PART
+CATEGORY - SUSPENSION 
+LOCATION - 
+INCLUDES - UPPER, CONTROL ARM ONLY
+
+
+INFO - Control arms are part of the suspension system. They attach suspension members to the chassis and manage the motion of the wheels so that it synchronizes with that of the body of the car. between other modules.
+
+
+

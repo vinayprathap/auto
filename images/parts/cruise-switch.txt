@@ -1,0 +1,8 @@
+TYPE -  USED OEM PART
+CATEGORY - STEERING
+LOCATION - USUALLY ON THE LEFT SIDE OF THE STEERING
+INCLUDES - 
+
+
+INFO - Cruise control (sometimes known as speed control or autocruise, or tempomat in some countries) is a system that automatically controls the speed of a motor vehicle. The system is a servomechanism that takes over the throttle of the car to maintain a steady speed as set by the driver.
+

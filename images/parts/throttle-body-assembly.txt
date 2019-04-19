@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - 
+LOCATION - USUALLY BETWEEN THE INTAKE MANIFOLD AND THE AIR FILTER
+INCLUDES - THROTTLE  BODY ONLY
+
+INFO - The throttle body is an essential part of the inlet air stream of a modern gasoline engine. In combination with the electronic throttle control system, the throttle body assembly is designed to control the amount of fresh air entering the engine.

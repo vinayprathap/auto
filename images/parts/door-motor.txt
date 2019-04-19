@@ -1,0 +1,6 @@
+ TYPE -  USED OEM PART
+CATEGORY - BODY ELECTRICAL.
+LOCATION - USUALLY AT THE DOOR
+INCLUDES - ELECTRIC DOOR MOTOR ONLY.
+
+INFO - There is an electric motor at each door and the lift gate. The method of actuating them is the same as the automatic door locks and remote garage door opener. A radio signal specific to the vehicle and individual motor controller triggers a switch which turns on the appropriate motor.

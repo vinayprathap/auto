@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - ENGINE ELECTRICAL
+LOCATION - USUALLY  LOCATED IN THE ENGINE COMPARTMENT
+INCLUDES - MODULE ONLY
+
+INFO - An engine control unit (ECU), also commonly called an engine control module (ECM), is a type of electronic control unit that controls a series of actuators on an internal combustion engine to ensure optimal engine performance
+Modules will need to have an exact part match, please provide your exact part number and Modules must be reset by a dealer before installing.

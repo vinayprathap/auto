@@ -1,0 +1,8 @@
+TYPE -  USED OEM PART
+CATEGORY - DRIVESHAFT AND AXEL
+LOCATION - 
+INCLUDES - COMPLETE AXEL ASSEMBLY INCLUDING DIFFERENTIALAND CARRIER ASSEMBLY WHERE APPLICABLE.
+
+INFO - Torsion-beam rear axles are exclusively used as a rear axle for vehicles with front-wheel drive. They are mainly to be found in small vehicles or cars in the compact segment and they establish the connection between the wheels and body.
+
+

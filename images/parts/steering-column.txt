@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - STEERING
+LOCATION - USUALLY CONNECTED TO STEERING WHEEL
+INCLUDES - STEERING COLUMN ONLY
+
+INFO -  Modern vehicles are fitted with a steering lock which is an anti-theft device. It is fitted to the steering column usually below the steering wheel. The lock is combined with the ignition switch and engaged and disengaged either by a mechanical ignition key or electronically from the vehicles electronic control unit.

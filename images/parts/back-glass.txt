@@ -1,0 +1,8 @@
+TYPE -  USED OEM PART
+CATEGORY - 
+LOCATION - ON THE TAILGATE OF THE CAR, OR BEHIND THE REAR SEAT,
+INCLUDES - BACK GLASS ONLY
+
+INFO - Unlike the front windshield, the glass for the back windshield is made in the same way that auto glass is made for the side window, vent window, or quarter glass panes
+
+

@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - 
+LOCATION - USUALLY AT THE LEFT BANK OF CYLINDERS
+INCLUDES - STARTER MOTOR ONLY
+
+INFO -  A starter is an electric motor that turns over or "cranks" the engine to start it. ... The starter motor is powered by the car battery. To turn over the engine the starter motor requires a very high electric current, which means the battery has to have sufficient power

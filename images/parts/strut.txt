@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - BODY MECHANICAL
+LOCATION - USUALLY NEAR THE WHEEL
+INCLUDES - STRUT WITH SPRING ONLY
+
+INFO -  A strut is a structural component commonly found in engineering, aeronautics, architecture and anatomy. Struts generally work by resisting longitudinal compression, but they may also serve in tension.

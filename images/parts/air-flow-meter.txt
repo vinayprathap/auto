@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY -
+LOCATION - USUALLY LOCATED IN THE RIGHT SIDE OF THE ENGINE COMPARTMENT
+INCLUDES - METER ONLY
+
+INFO -An air flow meter is used in some automobiles to measure the quantity of air going into the internal combustion engine.
+

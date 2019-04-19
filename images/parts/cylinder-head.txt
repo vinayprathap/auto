@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - ENGINE MECHANICAL.
+LOCATION - USUALLY LOCATED ON THE TOP OF THE ENGINE BLOCK.
+INCLUDES - Cylinder Head only
+
+
+INFO -In an internal combustion engine, the cylinder head (often informally abbreviated to just head) sits above the cylinders on top of the cylinder block. It closes in the top of the cylinder, forming the combustion chamber. This joint is sealed by a head gasket

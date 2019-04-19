@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - EXHAUST.
+LOCATION - USUALLY NEAR THE ENGINE BLOCK
+INCLUDES - EXHAUST MANIFOLD ONLY.
+
+INFO - the exhaust manifold is the first section of a vehicle's exhaust system. It funnels exhaust gases from all the cylinders and routes them to the car's catalytic converter.
+

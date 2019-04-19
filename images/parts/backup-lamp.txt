@@ -1,0 +1,8 @@
+TYPE -  USED OEM PART
+CATEGORY - 
+LOCATION - BACK OF THE CAR
+INCLUDES - LAMP ONLY
+
+INFO - They are used to warn other vehicles and people around the car that the vehicle is about to move backwards.
+
+

@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - ENGINE ELECTRICAL.
+LOCATION - 
+INCLUDES - 
+
+
+INFO - Broadly speaking, an inverter is an electrical device that converts electricity derived from a DC (Direct Current) source to AC (Alternating Current) of the type that can be used to drive a device or appliance. An inverter converts a lower voltage to a higher voltage usually from 12 volts a vehicle operates on to the normal 120 volt house current.

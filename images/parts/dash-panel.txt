@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - INTERIOR STYLING.
+LOCATION - USUALLY LOCATED DIRECTLY AHEAD OF A VEHICLE'S DRIVER.
+INCLUDES - DECKLID ONLY
+
+
+INFO - A dashpanel is a control panel usually located directly ahead of a vehicle's driver, displaying instrumentation and controls for the vehicle's operation. It also shows the speed of the vehicle, fuel content and more.

@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - 
+LOCATION - UNDERNEATH THE DASHBOARD IN THE HEATER/AC COMPARTMENT
+INCLUDES - ELECTRIC MOTOR AND FAN
+
+INFO - The blower motor is the fan that pushes heated or cooled air through dashboard vents based on the climate system settings and the fan speed selected.
+

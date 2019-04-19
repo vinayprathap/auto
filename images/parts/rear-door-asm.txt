@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - AUTO BODY PARTS.
+LOCATION - EXTERIOR.
+INCLUDES - DOOR SHELL AND WINDOW REGULAROR WITH MOTOR.
+
+INFO - A car door is a type of door, typically hinged, but sometimes attached by other mechanisms such as tracks, in front of an opening which is used for entering and exiting a vehicle. A vehicle door can be opened to provide access to the opening, or closed to secure it. These doors can be opened manually, or powered electronically. Powered doors are usually found on minivans, high-end cars, or modified cars.

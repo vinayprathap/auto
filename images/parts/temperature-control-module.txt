@@ -1,0 +1,7 @@
+TYPE -  USED OEM PART
+CATEGORY - ACCESSORY
+LOCATION - ON THE CENTRE CONSOLE
+INCLUDES - MODULE ONLY
+
+INFO - Temperature control modules are hardware components that are used in temperature control devices to enhance their functionality. They are useful in situations requiring that a given temperature to be kept stable and can be easily installed as plug and play devices.
+Modules will need to have an exact part match, please provide your exact part number and Modules must be reset by a dealer before installing.

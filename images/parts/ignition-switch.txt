@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - BODY ELECTRICALS.
+LOCATION - USUALLY BESIDE OR BELOW THE STEERING.
+INCLUDES - SWITCH AND KEY ONLY
+
+INFO - The ignition switch is the master switch that provides power for the vehicle's electrical accessories, computer, fuel and ignition systems. It also routes current from the battery to the starter to crank the engine. ACC - Accessory position that provides power to electrical accessories only, not the engine.

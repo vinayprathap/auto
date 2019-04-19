@@ -1,0 +1,6 @@
+TYPE -  USED OEM PART
+CATEGORY - BODY MECHANICAL
+LOCATION - INSIDE THE PANELS OF DOORS
+INCLUDES - WINDOW REGULATOR AND MOTOR
+
+INFO - Window Regulator propels the window to move up or down. Manual window regulators can be operated by simply rotating the crank on the door and power window regulators are activated by pressing a button or flicking a switch.  
